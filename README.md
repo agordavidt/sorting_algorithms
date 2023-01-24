@@ -5,21 +5,6 @@
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE2x8GeiLD2O8kQMi_nu59o69xACZT2MhPuw&usqp=CAU)
 
 ## General
-
-- Allowed editors: `vi`, `vim`, `emacs`
-- All your files will be compiled on `Ubuntu 20.04` LTS using `gcc`, using the options `-Wall` `-Werror` `-Wextra` `-pedantic` `-std=gnu89`
-- All your files should end with a new line
-- A `README.md` file, at the root of the folder of the project, is mandatory
-- Your code should use the Betty style. It will be checked using `betty-style.pl` and `betty-doc.pl`
-- You are not allowed to use global variables
-- No more than 5 functions per file
-- Unless specified otherwise, you are not allowed to use the standard library. Any use of functions like `printf`, `puts`, … is totally forbidden.
-- The prototypes of all your functions should be included in your header file called `sort.h`
-	_Don’t forget to push your header file_
-- All your header files should be include guarded
-- A list/array does not need to be sorted if its size is less than 2.
-
-## AIM :sunflower:
 - At least four different sorting algorithms
 - What is the Big O notation, and how to evaluate the time complexity of an algorithm
 - How to select the best sorting algorithm for a given input
